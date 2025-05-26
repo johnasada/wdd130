@@ -1,0 +1,52 @@
+nav{
+background-color: darkblue;
+padding: 10px;
+}
+nav a{
+color: white;
+display: block;
+padding: 20px;
+}
+h1{
+color: darkblue;
+}
+img{
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+p { 
+    padding: 10px;
+}
+
+
+
+
+
+
+
+/* 
+
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+body
+{background-color: #e90d0d;
+}
+header{
+background-color: #693413;
+padding: 20px;
+
+}
+img
+{border-radius: 30%;
+border: black solid 5px;
+border-color: black;}
+a{
+color: #ffffff;
+text-decoration: none;
+} */
